@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter8TryItOut\Chapter8TryItOut\bin\Debug\Chapter8TryItOut.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter8TryItOut\Chapter8TryItOut\bin\Debug\Chapter8TryItOut.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter8TryItOut\Chapter8TryItOut\bin\Debug\Chapter8TryItOut.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter8TryItOut\Chapter8TryItOut\obj\Debug\Chapter8TryItOut.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter8TryItOut\Chapter8TryItOut\obj\Debug\Chapter8TryItOut.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Chapter8TryItOut\Chapter8TryItOut\obj\Debug\Chapter8TryItOut.pdb
